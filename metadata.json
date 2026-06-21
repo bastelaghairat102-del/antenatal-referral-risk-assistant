@@ -1,0 +1,6 @@
+{
+  "name": "Antenatal Referral Risk Assistant",
+  "description": "An AI-supported clinical referral assistant to help junior antenatal intake midwives and clinic nurses extract insights, identify possible risk factors, and suggest clinician review priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
